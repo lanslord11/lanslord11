@@ -15,7 +15,7 @@
 
 - 💬 Ask me about anything
 
-- 😄 Pronouns: he/hi
+- 😄 Pronouns: he/him
 
 - 📫 How to reach me **piyushyadav11102002@gmail.com**
 
