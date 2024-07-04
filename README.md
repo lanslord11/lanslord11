@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [My Portfolio Website](https://lanslord11.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://lanslord11.github.io/PiyushYadav.github.io/](https://lanslord11.github.io/PiyushYadav.github.io/)
+- 👨‍💻 All of my projects are available at [https://lanslord11.vercel.app/](https://lanslord11.vercel.app/)
 
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on any project
