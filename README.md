@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Piyush Yadav</h1>
 <h3 align="center">An enthusiastic and a quick learner with good team management skills pursuing Information Technology @ IIIT Gwalior</h3>
 
-- 🔭 I’m currently working on [My Portfolio Website](https://lanslord11.github.io/PiyushYadav.github.io/)
+- 🔭 I’m currently working on [My Portfolio Website](https://lanslord11.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://lanslord11.github.io/PiyushYadav.github.io/](https://lanslord11.github.io/PiyushYadav.github.io/)
 
